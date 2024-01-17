@@ -1,0 +1,68 @@
+/*Index*/
+
+body{
+    background-color: blanchedalmond;
+}
+
+.titulo{
+    font-size: 45px;
+    text-align: center;
+    color:brown;
+    font-weight: bolder;
+}
+
+.linea1{
+ text-align: left;   
+ font-size: 30px;
+}
+
+.linea2{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.linea3{
+    text-align: right;
+    font-size: 30px;
+
+}
+
+/*Café*/
+
+.h1cafe{
+    font-size: 30px;
+    text-align: center;
+    color:brown;
+    font-weight: bolder;
+}
+
+.textocafe{
+    color:brown;
+}
+
+/*Carta*/
+
+.h1lacarta{
+    font-size: 30px;
+    text-align: center;
+    color:brown;
+    font-weight: bolder;
+}
+
+.textolacarta{
+    color:brown;
+}
+
+/*Contacto*/
+
+.h1contacto{
+    font-size: 30px;
+    text-align: center;
+    color:brown;
+    font-weight: bolder;
+}
+
+.textocontacto{
+    color:brown;
+}
